@@ -20,3 +20,7 @@ https://colab.research.google.com/drive/1HwHyhakLc_7ikgfAkj7niKQWvhmNDjFC?usp=sh
 
 #antwoorden niveau 2: 
 https://colab.research.google.com/drive/18iWmpqCeP7I4EiwzuX5sJkBTt5hsPVGq?usp=sharing
+
+cheatsheet: 
+https://colab.research.google.com/drive/16edhIYMpf6OAKaKR6vuLr-wEEVa_jATI?usp=sharing 
+
