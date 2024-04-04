@@ -1,4 +1,5 @@
 ## Opdrachten-Proefstudeerdag
+open de link en sla een kopie op op je drive. Je kunt nu aan de slag met de opdrachten
 
 #opdrachten niveau 0: 
 https://colab.research.google.com/drive/1PNkuGMpbe3Ku7zt89NU7n_HTWLc7In3b?usp=sharing
